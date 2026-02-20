@@ -18,6 +18,8 @@ Hypervisor: Oracle VirtualBox
 
 * DC01 (Windows Server 2022): 4GB RAM, 2vCPUs, 50GB VHD.
 
+![image_alt](https://github.com/cameronboulin1-stack/Enterprise-AD-Linux-Windows-Integration/blob/ee19782b790832a44b4f093d9a10770a176fc57c/Screenshot%202026-02-19%20233513.png)
+
 * RockySrv01 (Rocky Linux 10.1): 2GB RAM, 1vCPU, 20GB VDI.
 
 * CL01 (Windows 10 Client): Domain-joined workstation for validation.
