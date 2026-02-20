@@ -26,6 +26,8 @@ Hypervisor: Oracle VirtualBox
 
 * CL01 (Windows 10 Client): Domain-joined workstation for validation.
 
+![image_alt](https://github.com/cameronboulin1-stack/Enterprise-AD-Linux-Windows-Integration/blob/342644a998970979c931cb3acac2f301013eef8f/Screenshot%202026-02-19%20233502.png)
+
 🛠️ Key Troubleshooting: The "Ghost Floppy" Error
 * Issue: Windows Installer failed with a "Missing Media Driver" error.
 
