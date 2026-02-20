@@ -22,6 +22,8 @@ Hypervisor: Oracle VirtualBox
 
 * RockySrv01 (Rocky Linux 10.1): 2GB RAM, 1vCPU, 20GB VDI.
 
+![image_alt](https://github.com/cameronboulin1-stack/Enterprise-AD-Linux-Windows-Integration/blob/3e908c941bb332a6c63af833a9c7561b384a1915/Screenshot%202026-02-19%20233523.png)
+
 * CL01 (Windows 10 Client): Domain-joined workstation for validation.
 
 🛠️ Key Troubleshooting: The "Ghost Floppy" Error
